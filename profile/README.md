@@ -39,6 +39,13 @@
 
 <br/>
 
+<br/>
+## 📌 Execution Screen
+- 어플 실행 화면
+![Screenshot_20240319-194325_GachiCar](https://github.com/Gachicar/.github/assets/88912947/472ea7f6-cc48-4ca2-955c-16dcc40cdd7a)
+![Screenshot_20240319-194910_GachiCar](https://github.com/Gachicar/.github/assets/88912947/494c8db9-1421-4931-9a31-d4e671c4d37a)
+<br/>
+
 ## ⚙️ Stacks
 
   ### Environment
