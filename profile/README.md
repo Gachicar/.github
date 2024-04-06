@@ -43,6 +43,7 @@
 
 ## 📌 Execution Screen
 - 어플 실행 화면
+
 <div style="display: flex; justify-content: space-between;">
 
     <!-- 첫 번째 이미지 -->
