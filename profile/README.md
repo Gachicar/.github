@@ -43,14 +43,8 @@
 
 ## 📌 Execution Screen
 - 어플 실행 화면
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; width: 360px;">
-        <img src="https://github.com/Gachicar/.github/assets/88912947/472ea7f6-cc48-4ca2-955c-16dcc40cdd7a" alt="Screenshot_20240319-194325_GachiCar" style="width: 100%; height: auto; max-width: 360px; max-height: 640px;">
-    </div>
-    <div style="flex: 1; width: 360px; margin-left: 20px;">
-        <img src="https://github.com/Gachicar/.github/assets/88912947/494c8db9-1421-4931-9a31-d4e671c4d37a" alt="Screenshot_20240319-194910_GachiCar" style="width: 100%; height: auto; max-width: 360px; max-height: 640px;">
-    </div>
-</div>
+![Screenshot_20240319-194325_GachiCar](https://github.com/Gachicar/.github/assets/88912947/472ea7f6-cc48-4ca2-955c-16dcc40cdd7a =360x640) ![Screenshot_20240319-194910_GachiCar](https://github.com/Gachicar/.github/assets/88912947/494c8db9-1421-4931-9a31-d4e671c4d37a =360x640)
+
 <br/>
 
 ## ⚙️ Stacks
