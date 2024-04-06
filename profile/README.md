@@ -44,14 +44,17 @@
 ## 📌 Execution Screen
 - 어플 실행 화면
 <div style="display: flex; justify-content: space-between;">
+
     <!-- 첫 번째 이미지 -->
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github.com/Gachicar/.github/assets/88912947/472ea7f6-cc48-4ca2-955c-16dcc40cdd7a" alt="Screenshot_20240319-194325_GachiCar" style="max-width: 100%; height: auto;">
+    <div style="flex: 1; width: 250px;">
+        <img src="https://github.com/Gachicar/.github/assets/88912947/472ea7f6-cc48-4ca2-955c-16dcc40cdd7a" alt="Screenshot_20240319-194325_GachiCar" style="width: 100%; height: auto;">
     </div>
+
     <!-- 두 번째 이미지 -->
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="https://github.com/Gachicar/.github/assets/88912947/494c8db9-1421-4931-9a31-d4e671c4d37a" alt="Screenshot_20240319-194910_GachiCar" style="max-width: 100%; height: auto;">
+    <div style="flex: 1; width: 250px; margin-left: 20px;">
+        <img src="https://github.com/Gachicar/.github/assets/88912947/494c8db9-1421-4931-9a31-d4e671c4d37a" alt="Screenshot_20240319-194910_GachiCar" style="width: 100%; height: auto;">
     </div>
+
 </div>
 <br/>
 
